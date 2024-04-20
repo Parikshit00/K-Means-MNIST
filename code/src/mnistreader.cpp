@@ -1,5 +1,5 @@
 #include "mnistheader.h"
-
+#include <fstream>
 MNIST ::MNIST(string train_image, string train_label, string test_image, string test_label)
 {
     trainImg = train_image;

@@ -1,7 +1,7 @@
 #ifndef CLUSTERS_H
 #define CLUSTERS_H
 #include <iostream>
-#include "opencv4/opencv2/opencv.hpp"
+#include "opencv2/opencv.hpp"
 #include "imagevectors.h"
 
 using namespace std;
